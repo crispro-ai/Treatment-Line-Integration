@@ -32,7 +32,7 @@
 **Context**: Manager approved "A - Simple MoA overlap" for Q3, but I need to clarify implementation approach.
 
 **Example Scenario**:
-- Ayesha receives "carboplatin + paclitaxel" (1st line)
+- AK receives "carboplatin + paclitaxel" (1st line)
 - Now considering "olaparib" (PARP inhibitor, 2nd line)
 - Both affect DNA repair → cross-resistance risk
 

@@ -11,14 +11,13 @@
 
 ### **🎯 Start Here**
 1. **[EXECUTIVE_SUMMARY.md](EXECUTIVE_SUMMARY.md)** - High-level overview (5 min read)
-2. **[HEREDITARY_PATHWAY_COMPLETE.md](HEREDITARY_PATHWAY_COMPLETE.md)** - Complete technical report (15 min read)
+2. **[HEREDITARY_PATHWAY_FINAL_STATUS.md](HEREDITARY_PATHWAY_FINAL_STATUS.md)** - Complete technical report (15 min read)
 3. **[BEFORE_AFTER_COMPARISON.md](BEFORE_AFTER_COMPARISON.md)** - Clinical impact demonstration (10 min read)
 
 ### **📋 Planning & Strategy**
 - **[TREATMENT_LINE_INTEGRATION_DOCTRINE.mdc](TREATMENT_LINE_INTEGRATION_DOCTRINE.mdc)** - Strategic doctrine (521 lines)
-- **[EXECUTION_PLAN.md](EXECUTION_PLAN.md)** - Modular execution plan (307 lines)
-- **[PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md)** - Progress tracking
 - **[CRITICAL_QUESTIONS_FOR_MANAGER.md](CRITICAL_QUESTIONS_FOR_MANAGER.md)** - Manager Q&A (resolved)
+- **[INTEGRATION_STATUS.md](INTEGRATION_STATUS.md)** - Complete integration status and wiring guide
 
 ### **📊 Phase Completion Reports**
 - **[docs/PHASE0_COMPLETION.md](docs/PHASE0_COMPLETION.md)** - Setup & scaffolding

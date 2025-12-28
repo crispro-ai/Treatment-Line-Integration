@@ -101,7 +101,7 @@ http://localhost:3000/myeloma-digital-twin
 - ✅ SAE chips reflect treatment history
 
 ### **Clinical**
-- ✅ Ayesha's case validated (L1 → L2 → L3)
+- ✅ AK's case validated (L1 → L2 → L3)
 - ✅ Cross-resistance logic correct (DNA repair pathway)
 - ✅ Rationale matches clinical expectations
 
