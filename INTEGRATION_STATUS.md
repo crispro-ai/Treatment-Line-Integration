@@ -178,13 +178,13 @@ CoPilot displays results with treatment_line_provenance
 
 ### **Functional**
 - ✅ First-line: No penalty applied
-- ✅ Second-line: -8% penalty for olaparib (Ayesha's case)
+- ✅ Second-line: -8% penalty for olaparib (Ovarian L2 case)
 - ✅ Third-line: -12% penalty for topotecan
 - ✅ Provenance fields accurate
 - ✅ SAE chips reflect treatment history
 
 ### **Clinical**
-- ✅ Ayesha's case validated (L1 → L2 → L3)
+- ✅ Ovarian L2 case validated (L1 → L2 → L3)
 - ✅ Cross-resistance logic correct (DNA repair pathway)
 - ✅ Rationale matches clinical expectations
 
@@ -278,10 +278,11 @@ CoPilot displays results with treatment_line_provenance
 - **Seamless UX** - no manual configuration required
 
 **Next Battle:**
-- Demo Ayesha's case end-to-end with CoPilot assistance
+- Demo Ovarian L2 case end-to-end with CoPilot assistance
 - Move forward to Sporadic pathway (germline vs. somatic)
 
 ---
 
 **⚔️ VICTORY ACHIEVED! TREATMENT LINE INTEGRATION IS FULLY OPERATIONAL! ⚔️**
+
 

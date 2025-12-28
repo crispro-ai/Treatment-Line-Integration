@@ -107,7 +107,7 @@ frontend/
 ```
 testing/
 └── e2e_smoke_test.sh (200+ lines)
-    - 4 test cases (baseline, Ayesha, Dr. Lustberg, first-line)
+    - 4 test cases (baseline, Ovarian L2, Dr. Lustberg, first-line)
     - Automatic confidence range validation
     - Provenance verification
 ```
@@ -132,8 +132,8 @@ Success Rate: 100%
 - **E2E Smoke Tests**: Ready (4 test cases)
 
 ### **Clinical Validation**
-- ✅ **AK** (Ovarian L2 post-platinum → olaparib): 0.80 → 0.72 (-8%)
-- ✅ **Dr.L** (Breast L3 post-T-DXd → tucatinib): 0.85 → 0.81 (-4%)
+- ✅ **Ovarian L2 case** (post-platinum → olaparib): 0.80 → 0.72 (-8%)
+- ✅ **Dr. Lustberg** (Breast L3 post-T-DXd → tucatinib): 0.85 → 0.81 (-4%)
 - ✅ **First-line** (no prior therapies): No penalty (0%)
 - ✅ **Confidence floor**: Never negative
 
@@ -194,13 +194,13 @@ Success Rate: 100%
 2. **Review Clinical Validation**
    ```bash
    open docs/PHASE3_COMPLETION.md
-   # See "Ayesha's Case: Before vs After" section
+   # See "Ovarian L2 Case: Before vs After" section
    ```
 
 3. **See Example Use Cases**
    ```bash
    open BEFORE_AFTER_COMPARISON.md
-   # Includes Ayesha, Dr. Lustberg, and first-line examples
+   # Includes Ovarian L2, Dr. Lustberg, and first-line examples
    ```
 
 ---
@@ -247,7 +247,7 @@ Success Rate: 100%
 
 ## 🎯 USE CASES
 
-### **1. Ayesha: Ovarian L2 Post-Platinum**
+### **1. Ovarian L2 Post-Platinum Case**
 - **Input**: BRCA1 Q356*, L2, prior carboplatin+paclitaxel
 - **Output**: Olaparib confidence 0.72 (⬇️ -8% for DNA repair cross-resistance)
 - **Clinical Impact**: Realistic expectation setting
@@ -272,7 +272,7 @@ Success Rate: 100%
 - ✅ **8 hours** of focused development
 - ✅ **100% test pass rate** (29/29)
 - ✅ **Production-grade code** (no corners cut)
-- ✅ **Clinical validation** (Ayesha + Dr. Lustberg)
+- ✅ **Clinical validation** (Ovarian L2 + Dr. Lustberg cases)
 - ✅ **Comprehensive documentation** (1,600+ lines)
 
 ### **Why It Matters**
