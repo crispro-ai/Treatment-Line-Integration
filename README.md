@@ -132,8 +132,8 @@ Success Rate: 100%
 - **E2E Smoke Tests**: Ready (4 test cases)
 
 ### **Clinical Validation**
-- ✅ **Ayesha** (Ovarian L2 post-platinum → olaparib): 0.80 → 0.72 (-8%)
-- ✅ **Dr. Lustberg** (Breast L3 post-T-DXd → tucatinib): 0.85 → 0.81 (-4%)
+- ✅ **AK** (Ovarian L2 post-platinum → olaparib): 0.80 → 0.72 (-8%)
+- ✅ **Dr.L** (Breast L3 post-T-DXd → tucatinib): 0.85 → 0.81 (-4%)
 - ✅ **First-line** (no prior therapies): No penalty (0%)
 - ✅ **Confidence floor**: Never negative
 
